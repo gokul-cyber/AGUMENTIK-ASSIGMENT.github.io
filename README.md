@@ -2,7 +2,7 @@
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
-Open the online demo [here](https://manishbisht.github.io/Games-Arena)
+Open the online demo (https://gokul-cyber.github.io/Games-Arena)
 
 ## Features
 
@@ -37,25 +37,25 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here](https://manishbisht.github.io/Games-Arena)
+3. Check the online demo [here](https://gokul-cyber.github.io/Games-Arena)
 
 ## Screenshots
 Project Home Page
-![HomePage](screenshots/1.png)
+![HomePage]
 
 Search Feature
-![Search](screenshots/2.png)
+![Search]
 
 Sort by score (Low to high)
-![Sort by score (Low to high)](screenshots/3.png)
+![Sort by score (Low to high)]
 
 Sort by score (high to low)
-![Sort by score (high to low)](screenshots/4.png)
+![Sort by score (high to low)]
 
 Suggestions
-![Suggestions](screenshots/5.png)
+![Suggestions]
 
-My website manishbisht.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
+My website gokul.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
-![Error0](screenshots/6.png)
-![Error1](screenshots/7.png)
+![Error0]
+![Error1]
