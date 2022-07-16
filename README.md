@@ -1,4 +1,5 @@
-# Games-Arena | Cogoport Frontend Developer Hiring Challenge
+# Games-Arena | RENTOMOJO
+Frontend Developer Hiring Challenge
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
