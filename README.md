@@ -17,7 +17,8 @@ Open the online demo (https://gokul-cyber.github.io/Games-Arena)
 
 ## Games API
 
-- [http://starlord.hackerearth.com/gamesarena](http://starlord.hackerearth.com/gamesarena)
+(http://starlord.hackerearth.com/gamesarena)
+https://s3-ap-southeast-1.amazonaws.com/he-public-data/gamesarena274f2bf.json
 
 ## How to run the project in Development Mode
 The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-App starter code](https://github.com/facebookincubator/create-react-app).
