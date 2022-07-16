@@ -1,4 +1,4 @@
-# Games-Arena | Cogoport Frontend Developer Hiring Challenge
+# Games-Arena | Rento Mojo  Frontend Developer Hiring Challenge
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
@@ -25,7 +25,7 @@ The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
-2. Clone the repo `git clone https://github.com/manishbisht/Games-Arena.git`
+2. Clone the repo `git clone https://github.com/gokul-cyber/Games-Arena.git`
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
