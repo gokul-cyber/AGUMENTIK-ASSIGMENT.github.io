@@ -3,7 +3,7 @@ Frontend Developer Hiring Challenge
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## How to run the project online
-Open the online demo [here] (https://github.com/gokul-cyber/RENTOMOJO-FRONTEND-ASSIGMENT)
+Open the online demo [here] (https://gokul-cyber.github.io/RENTOMOJO-FRONTEND-ASSIGMENT.github.io/)
 
 ## Features
 
@@ -38,7 +38,7 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here] (https://github.com/gokul-cyber/RENTOMOJO-FRONTEND-ASSIGMENT)
+3. Check the online demo [here] (https://gokul-cyber.github.io/RENTOMOJO-FRONTEND-ASSIGMENT.github.io/)
 
 ## Screenshots
 Project Home Page
