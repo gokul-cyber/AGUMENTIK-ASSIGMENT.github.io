@@ -60,6 +60,11 @@ Sort by score (high to low)
 Suggestions
 ![Suggestions] ![1](https://user-images.githubusercontent.com/62883769/179364620-1afe29f0-9991-4c89-a40b-f15f9d25af0d.png)
 
+RESUME: 
+[kakimani gokul_ resume.pdf](https://github.com/gokul-cyber/RENTOMOJO-FRONTEND-ASSIGMENT.github.io/files/9138753/kakimani.gokul_.resume.pdf)
+cgp marks :![WhatsApp Image 2022-07-19 at 1 23 33 PM](https://user-images.githubusercontent.com/62883769/179697965-582a00d1-0c4b-4a7d-8645-986c894189d0.jpeg)
+
+
 
 My website gokul-cyber.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
